@@ -6,4 +6,7 @@ frame and that resulted in smart glasses. An android app was used to connect mob
 user could see all notifications, calls and other info from watch directly. Arduino code was developed and
 dumped into Arduino using Arduino ide.
 
->> Place bitmap and arduino file in same folder on your desktop.
+> Place bitmap and arduino file in same folder on your desktop.
+
+## Developer
+ - [Shivam Gaur](https://github.com/shivam101gaur)
